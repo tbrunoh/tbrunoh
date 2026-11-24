@@ -14,7 +14,7 @@
 
 <sub><b>AI ECOSYSTEMS</b> &nbsp;·&nbsp; <b>CONTEXT FOR AFRICA</b> &nbsp;·&nbsp; <b>OPEN STANDARDS</b></sub>
 
-<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#ace-the-african-context-engine">ACE</a> &nbsp;·&nbsp; <a href="#korext-the-stack">Korext</a> &nbsp;·&nbsp; <a href="#journey">Journey</a> &nbsp;·&nbsp; <a href="#connect">Connect</a></sub>
+<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#ace-the-african-context-engine">ACE</a> &nbsp;·&nbsp; <a href="#inclusive-skin-ai">Skin AI</a> &nbsp;·&nbsp; <a href="#korext-the-stack">Korext</a> &nbsp;·&nbsp; <a href="#journey">Journey</a> &nbsp;·&nbsp; <a href="#connect">Connect</a></sub>
 
 </div>
 
@@ -88,6 +88,31 @@ Global models do not know which pest control works at 2,100m in the Rift Valley,
 </div>
 
 <sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha. Repository opening soon.</sub>
+
+<br><br>
+
+## Inclusive Skin AI
+
+Most skin analysis models are trained on lighter skin, so they misread darker tones and give advice that does not fit. This project starts from the other end: an end to end system built for melanin-rich skin first, from photo capture and labeling to trained models and a personalized skincare assistant.
+
+<div align="center">
+<img src="./skin.svg" alt="Inclusive skin AI pipeline: capture, label, train, serve and advise, with skin tone measured on the Monk Skin Tone scale" width="100%">
+</div>
+
+<table>
+<thead>
+<tr><th align="left">Layer</th><th align="left">Repository</th><th align="left">What it does</th></tr>
+</thead>
+<tbody>
+<tr><td><sub>MODEL</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-skintone"><b>ml-ai-skintone</b></a></td><td>Skin tone classifier on the Monk Skin Tone scale, with training and Vertex AI inference</td></tr>
+<tr><td><sub>MODEL</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-skin-conditions"><b>ml-ai-skin-conditions</b></a></td><td>Skin condition model package, early stage</td></tr>
+<tr><td><sub>CORE</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-core"><b>ml-ai-core</b></a></td><td>Shared Python library for models, utilities and image storage</td></tr>
+<tr><td><sub>PRODUCT</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-skintone-ui"><b>ml-ai-skintone-ui</b></a></td><td>Next.js app for skin tone analysis, deployed by CI/CD on every push</td></tr>
+<tr><td><sub>RESEARCH</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-samples"><b>ml-ai-samples</b></a></td><td>Reference experiments: class prediction, GANs and MNIST baselines</td></tr>
+</tbody>
+</table>
+
+<sub>The upload API, labeling service, inference API and Terraform infrastructure stay private.</sub>
 
 <br><br>
 
