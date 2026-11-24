@@ -6,7 +6,7 @@
 
 <a href="https://korext.com"><img src="https://img.shields.io/badge/Korext-Platform-1E40AF?style=flat-square&labelColor=0B1838" alt="Korext Platform"></a>
 <a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext-Open%20Standards-06B6D4?style=flat-square&labelColor=0B1838" alt="Korext Open Standards"></a>
-<a href="https://github.com/tbrunoh/african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-0E7490?style=flat-square&labelColor=0B1838" alt="ACE"></a>
+<a href="#ace-the-african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-0E7490?style=flat-square&labelColor=0B1838" alt="ACE"></a>
 <a href="https://github.com/korext"><img src="https://img.shields.io/github/stars/korext?style=flat-square&color=3B82F6&labelColor=0B1838&label=Org%20Stars" alt="Korext org stars"></a>
 <a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-tbrunoh-0A66C2?style=flat-square&labelColor=0B1838&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -22,7 +22,7 @@
 
 I work where AI systems meet the ecosystems around them: the agents, platforms, publishers and developers that have to trust one another for any of it to work.
 
-By day I am a Product and Ecosystem Leader in AI Ecosystems. Outside of it I am building **[ACE](https://github.com/tbrunoh/african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge, and **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable.
+By day I am a Product and Ecosystem Leader in AI Ecosystems. Outside of it I am building **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge, and **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable.
 
 <br>
 
@@ -45,7 +45,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 One open context engine behind every entry point people already use: voice, USSD, SMS, WhatsApp, agents, radio and MCP.
 
-<a href="https://github.com/tbrunoh/african-context-engine"><b>african-context-engine →</b></a>
+<sub>Pre-alpha. Repository opening soon.</sub>
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ Global models do not know which pest control works at 2,100m in the Rift Valley,
 </tbody>
 </table>
 
-<sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha. &nbsp;<a href="https://github.com/tbrunoh/african-context-engine"><b>View the repository →</b></a></sub>
+<sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha. Repository opening soon.</sub>
 
 <br><br>
 
@@ -173,30 +173,6 @@ More than a decade at Google, from Large Customer Sales and Global Product Lead 
 <a href="https://www.berkeley.edu"><img src="https://img.shields.io/badge/UC%20Berkeley-MEng%20%C2%B7%20AI%2FML%2C%20Robotics%2C%20Controls-003262?style=for-the-badge&labelColor=0B1838" alt="UC Berkeley"></a>
 <a href="https://www.hec.edu"><img src="https://img.shields.io/badge/HEC%20Paris-MS%20%C2%B7%20Innovation%20and%20Entrepreneurship-1E40AF?style=for-the-badge&labelColor=0B1838" alt="HEC Paris"></a>
 <a href="https://www.tudublin.ie"><img src="https://img.shields.io/badge/TU%20Dublin-BS%20%C2%B7%20Digital%20Technology%2C%20Design%2C%20Innovation-0E7490?style=for-the-badge&labelColor=0B1838" alt="TU Dublin"></a>
-
-</div>
-
-<br>
-
-## Activity
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.oss.korext.com/api?username=tbrunoh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=7DD3FC&icon_color=06B6D4&text_color=C9D1D9&bg_color=0D1117">
-  <img src="https://stats.oss.korext.com/api?username=tbrunoh&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&title_color=1E40AF&icon_color=06B6D4&text_color=334155&bg_color=ffffff" alt="GitHub stats" width="49%">
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://stats.oss.korext.com/api/top-langs/?username=korext&layout=compact&hide_border=true&title_color=7DD3FC&text_color=C9D1D9&bg_color=0D1117">
-  <img src="https://stats.oss.korext.com/api/top-langs/?username=korext&layout=compact&hide_border=true&title_color=1E40AF&text_color=334155&bg_color=ffffff" alt="Top languages" width="49%">
-</picture>
-
-<br><br>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=tbrunoh&hide_border=true&bg_color=0D1117&color=7DD3FC&line=06B6D4&point=FFFFFF&area=true&area_color=06B6D4">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tbrunoh&theme=github-light&hide_border=true&color=1E40AF&line=06B6D4&point=0B1838&bg_color=ffffff&area=true&area_color=06B6D4" alt="Contribution activity" width="99%">
-</picture>
 
 </div>
 
