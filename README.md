@@ -46,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-One open context engine behind every entry point people already use: voice, USSD, SMS, WhatsApp, agents, radio and MCP.
+Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. V1 is live and open for contributors.
 
 <a href="https://github.com/tbrunoh/african-context-engine"><b>View the repository →</b></a>
 
@@ -82,13 +82,13 @@ The runtime that enforces those standards for regulated industries, with a signe
 
 ## ACE: the African Context Engine
 
-Global models do not know which pest control works at 2,100m in the Rift Valley, what tomatoes cost on Thursdays at Wakulima, or how land law changes 30km across a border. ACE encodes that hyperlocal knowledge once and serves it through every channel, on any phone, with a safety rail that hands urgent cases to a human.
+Global models do not know which hotline handles gender based violence in Kenya, what moisture keeps maize free of aflatoxin, or how to tell a real M-PESA message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. V1 ships six Kenya packs in English and Swahili, a USSD menu app, Scam Shield and an MCP server, and runs without an AI model.
 
 <div align="center">
-<img src="./ace.svg" alt="ACE architecture: eight entry points, one identity, an engine that runs safety, intent, context and cited answers, over context packs and mobile money" width="100%">
+<img src="./ace.svg" alt="ACE V1 architecture: six entry points, one pseudonymous identity, an engine that runs the safety rail, Scam Shield, checked context and cited answers over sourced context packs" width="100%">
 </div>
 
-<sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha, contributions welcome: <a href="https://github.com/tbrunoh/african-context-engine">tbrunoh/african-context-engine</a>.</sub>
+<sub>Apache 2.0 code, CC BY 4.0 knowledge. V1 is live; Swahili speakers, clinicians, agronomists and developers are welcome: <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
 
 <br><br>
 
