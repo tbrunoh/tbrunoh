@@ -108,11 +108,16 @@ Most skin analysis models are trained on lighter skin, so they misread darker to
 <tr><td><sub>MODEL</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-skin-conditions"><b>ml-ai-skin-conditions</b></a></td><td>Skin condition model package, early stage</td></tr>
 <tr><td><sub>CORE</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-core"><b>ml-ai-core</b></a></td><td>Shared Python library for models, utilities and image storage</td></tr>
 <tr><td><sub>PRODUCT</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-skintone-ui"><b>ml-ai-skintone-ui</b></a></td><td>Next.js app for skin tone analysis, deployed by CI/CD on every push</td></tr>
+<tr><td><sub>SERVE</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-client-api"><b>ml-ai-client-api</b></a></td><td>Python inference API that serves the skin tone model</td></tr>
+<tr><td><sub>DATA</sub></td><td><a href="https://github.com/tbrunoh/ml-data-upload-api"><b>ml-data-upload-api</b></a></td><td>Upload API that feeds training images into storage and labeling</td></tr>
+<tr><td><sub>DATA</sub></td><td><a href="https://github.com/tbrunoh/ml-data-labelling-ui"><b>ml-data-labelling-ui</b></a></td><td>Label Studio deployment for labeling skin tone and condition</td></tr>
+<tr><td><sub>INFRA</sub></td><td><a href="https://github.com/tbrunoh/ml-terraform"><b>ml-terraform</b></a></td><td>Terraform for GPU training, storage, databases and container registry on Azure</td></tr>
+<tr><td><sub>INFRA</sub></td><td><a href="https://github.com/tbrunoh/ml-terraform-modules"><b>ml-terraform-modules</b></a></td><td>Reusable Terraform modules: storage, PostgreSQL, Cosmos DB and container registry</td></tr>
 <tr><td><sub>RESEARCH</sub></td><td><a href="https://github.com/tbrunoh/ml-ai-samples"><b>ml-ai-samples</b></a></td><td>Reference experiments: class prediction, GANs and MNIST baselines</td></tr>
 </tbody>
 </table>
 
-<sub>The upload API, labeling service, inference API and Terraform infrastructure stay private.</sub>
+<sub>The cloud environment behind this work has been retired; the code stays open as a reference.</sub>
 
 <br><br>
 
