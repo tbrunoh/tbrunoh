@@ -27,6 +27,8 @@ I work where AI systems meet the ecosystems around them: the agents, platforms, 
 
 By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Outside of it, my personal projects are **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge; **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable; and **[Inclusive Skin AI](#inclusive-skin-ai)**, skin analysis built for melanin-rich skin first.
 
+I write about AI that reaches people on the phones they already own, and about getting public data to the people it is meant to serve: **[Writing](https://tbrunoh.github.io/writing/)**.
+
 <br>
 
 <table>
