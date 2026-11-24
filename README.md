@@ -15,7 +15,7 @@
 
 <sub><b>AI ECOSYSTEMS</b> &nbsp;·&nbsp; <b>CONTEXT FOR AFRICA</b> &nbsp;·&nbsp; <b>OPEN STANDARDS</b></sub>
 
-<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#ace-the-african-context-engine">ACE</a> &nbsp;·&nbsp; <a href="#inclusive-skin-ai">Skin AI</a> &nbsp;·&nbsp; <a href="#korext-the-stack">Korext</a> &nbsp;·&nbsp; <a href="#journey">Journey</a> &nbsp;·&nbsp; <a href="#connect">Connect</a></sub>
+<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#ace-the-african-context-engine">ACE</a> &nbsp;·&nbsp; <a href="#inclusive-skin-ai">Skin AI</a> &nbsp;·&nbsp; <a href="#korext-the-stack">Korext</a> &nbsp;·&nbsp; <a href="#career">Career</a> &nbsp;·&nbsp; <a href="#connect">Connect</a></sub>
 
 </div>
 
@@ -23,9 +23,7 @@
 
 ## About
 
-I work where AI systems meet the ecosystems around them: the agents, platforms, publishers and developers that have to trust one another for any of it to work.
-
-By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Outside of it, my personal projects are **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge; **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable; and **[Inclusive Skin AI](#inclusive-skin-ai)**, skin analysis built for melanin-rich skin first.
+By day I am a Product and Ecosystem Leader in AI Ecosystems at Google, where I shape strategy for how AI agents reach the web: what they can access, how they identify themselves, and what publishers and creators get in return. Outside of it, my personal projects are **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge; **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable; and **[Inclusive Skin AI](#inclusive-skin-ai)**, skin analysis built for melanin-rich skin first.
 
 I write about AI that reaches people on the phones they already own, and about getting public data to the people it is meant to serve: **[Writing](https://tbrunoh.github.io/writing/)**.
 
@@ -48,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Version 1.1 is live, the V2 design is published, and it is open for contributors.
+Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 1.1 is out, the V2 design is published, and it is open for contributors.
 
 <a href="https://tbrunoh.github.io/ace/"><b>Project page →</b></a> &nbsp; <a href="https://github.com/tbrunoh/african-context-engine"><b>Repository →</b></a>
 
@@ -84,19 +82,19 @@ The runtime that enforces those standards for regulated industries, with a signe
 
 ## ACE: the African Context Engine
 
-Global models do not know which hotline handles gender based violence in Ghana, what moisture keeps maize free of aflatoxin, or how to tell a real mobile money message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. One deployment serves 13 countries, from Kenya and Nigeria to Senegal and South Africa, in English, Swahili and French. The caller's number picks the country, so every emergency number is that country's own. It ships a USSD menu app, Scam Shield and an MCP server, and runs without an AI model. The [V2 design](https://github.com/tbrunoh/african-context-engine/tree/main/docs/v2) turns public weather, flood, soil and health data and open African speech models into twelve decision services and a voice line.
+Global models do not know which hotline handles gender based violence in Ghana, what moisture keeps maize free of aflatoxin, or how to tell a real mobile money message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. One engine covers 13 countries, from Kenya and Nigeria to Senegal and South Africa, in English, Swahili and French. The caller's number picks the country, so every emergency number is that country's own. It ships a USSD menu app, Scam Shield and an MCP server, and runs without an AI model. The [V2 design](https://github.com/tbrunoh/african-context-engine/tree/main/docs/v2) turns public weather, flood, soil and health data and open African speech models into twelve decision services and a voice line.
 
 <div align="center">
 <img src="./ace.svg" alt="ACE architecture: six entry points, one pseudonymous identity, an engine that runs the safety rail, Scam Shield, checked context and cited answers over sourced context packs" width="100%">
 </div>
 
-<sub>Apache 2.0 code, CC BY 4.0 knowledge. Version 1.1 is live; Swahili and French speakers, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
+<sub>Apache 2.0 code, CC BY 4.0 knowledge. Release 1.1 is out; Swahili and French speakers, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
 
 <br><br>
 
 ## Inclusive Skin AI
 
-Most skin analysis models are trained on lighter skin, so they misread darker tones and give advice that does not fit. This project starts from the other end: an end to end system built for melanin-rich skin first, from photo capture and labeling to trained models and a personalized skincare assistant.
+Skin analysis models often perform worse on darker skin, because the images they learn from are mostly of lighter skin. This project starts from the other end: an end to end system built for melanin-rich skin first, from photo capture and labeling to trained models and a personalized skincare assistant.
 
 <div align="center">
 <img src="./skin.svg" alt="Inclusive skin AI pipeline: capture, label, train, serve and advise, with skin tone measured on the Monk Skin Tone scale" width="100%">
@@ -188,7 +186,7 @@ Most skin analysis models are trained on lighter skin, so they misread darker to
 
 <br><br>
 
-## Journey
+## Career
 
 <div align="center">
 <img src="./journey.svg" alt="Career from Google Kenya to AI Ecosystems, and education at TU Dublin, HEC Paris, UC Berkeley and George Washington University" width="100%">
