@@ -46,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. V1 is live and open for contributors.
+Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Version 1.1 is live, the V2 design is published, and it is open for contributors.
 
 <a href="https://github.com/tbrunoh/african-context-engine"><b>View the repository →</b></a>
 
@@ -82,7 +82,7 @@ The runtime that enforces those standards for regulated industries, with a signe
 
 ## ACE: the African Context Engine
 
-Global models do not know which hotline handles gender based violence in Ghana, what moisture keeps maize free of aflatoxin, or how to tell a real mobile money message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. One deployment serves 13 countries, from Kenya and Nigeria to Senegal and South Africa, in English, Swahili and French. The caller's number picks the country, so every emergency number is that country's own. It ships a USSD menu app, Scam Shield and an MCP server, and runs without an AI model.
+Global models do not know which hotline handles gender based violence in Ghana, what moisture keeps maize free of aflatoxin, or how to tell a real mobile money message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. One deployment serves 13 countries, from Kenya and Nigeria to Senegal and South Africa, in English, Swahili and French. The caller's number picks the country, so every emergency number is that country's own. It ships a USSD menu app, Scam Shield and an MCP server, and runs without an AI model. The [V2 design](https://github.com/tbrunoh/african-context-engine/tree/main/docs/v2) turns public weather, flood, soil and health data and open African speech models into twelve decision services and a voice line.
 
 <div align="center">
 <img src="./ace.svg" alt="ACE architecture: six entry points, one pseudonymous identity, an engine that runs the safety rail, Scam Shield, checked context and cited answers over sourced context packs" width="100%">
