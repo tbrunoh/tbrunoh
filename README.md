@@ -48,7 +48,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Version 1.1 is live, the V2 design is published, and it is open for contributors.
 
-<a href="https://github.com/tbrunoh/african-context-engine"><b>View the repository →</b></a>
+<a href="https://tbrunoh.github.io/ace/"><b>Project page →</b></a> &nbsp; <a href="https://github.com/tbrunoh/african-context-engine"><b>Repository →</b></a>
 
 </td>
 </tr>
@@ -88,7 +88,7 @@ Global models do not know which hotline handles gender based violence in Ghana, 
 <img src="./ace.svg" alt="ACE architecture: six entry points, one pseudonymous identity, an engine that runs the safety rail, Scam Shield, checked context and cited answers over sourced context packs" width="100%">
 </div>
 
-<sub>Apache 2.0 code, CC BY 4.0 knowledge. Version 1.1 is live; Swahili and French speakers, clinicians, agronomists and developers are welcome: <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
+<sub>Apache 2.0 code, CC BY 4.0 knowledge. Version 1.1 is live; Swahili and French speakers, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
 
 <br><br>
 
