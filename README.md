@@ -25,7 +25,7 @@
 
 I work where AI systems meet the ecosystems around them: the agents, platforms, publishers and developers that have to trust one another for any of it to work.
 
-By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Outside of it I am building **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge, and **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable.
+By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Outside of it, my personal projects are **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge; **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable; and **[Inclusive Skin AI](#inclusive-skin-ai)**, skin analysis built for melanin-rich skin first.
 
 <br>
 
@@ -35,14 +35,14 @@ By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Outside o
 
 <sub>01 &nbsp; DAY JOB</sub>
 
-### AI Ecosystems
+### AI Ecosystems at Google
 
 How agents, platforms and publishers connect: access, identity, incentives and the protocols that hold them together.
 
 </td>
 <td width="50%" valign="top">
 
-<sub>02 &nbsp; BUILDING</sub>
+<sub>02 &nbsp; PERSONAL PROJECT</sub>
 
 ### ACE, the African Context Engine
 
