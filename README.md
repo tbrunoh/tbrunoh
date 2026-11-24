@@ -9,6 +9,7 @@
 <a href="https://github.com/tbrunoh/african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-0E7490?style=flat-square&labelColor=0B1838" alt="ACE"></a>
 <a href="https://github.com/korext"><img src="https://img.shields.io/github/stars/korext?style=flat-square&color=3B82F6&labelColor=0B1838&label=Org%20Stars" alt="Korext org stars"></a>
 <a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-tbrunoh-0A66C2?style=flat-square&labelColor=0B1838&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://tbrunoh.github.io"><img src="https://img.shields.io/badge/Website-tbrunoh.github.io-2DD4BF?style=flat-square&labelColor=0B1838" alt="Website"></a>
 
 <br><br>
 
@@ -24,7 +25,7 @@
 
 I work where AI systems meet the ecosystems around them: the agents, platforms, publishers and developers that have to trust one another for any of it to work.
 
-By day I am a Product and Ecosystem Leader in AI Ecosystems. Outside of it I am building **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge, and **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable.
+By day I am a Product and Ecosystem Leader in AI Ecosystems at Google. Outside of it I am building **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge, and **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable.
 
 <br>
 
@@ -201,6 +202,7 @@ Born and raised in Kenya. More than a decade at Google, including five years sha
 
 <div align="center">
 
+<a href="https://tbrunoh.github.io"><img src="https://img.shields.io/badge/Website-0E7490?style=for-the-badge" alt="Website"></a>
 <a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://korext.com"><img src="https://img.shields.io/badge/Korext_Platform-1E40AF?style=for-the-badge" alt="Korext Platform"></a>
 <a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext_Open_Source-06B6D4?style=for-the-badge" alt="Korext Open Source"></a>
