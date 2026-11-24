@@ -6,7 +6,7 @@
 
 <a href="https://korext.com"><img src="https://img.shields.io/badge/Korext-Platform-1E40AF?style=flat-square&labelColor=0B1838" alt="Korext Platform"></a>
 <a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext-Open%20Standards-06B6D4?style=flat-square&labelColor=0B1838" alt="Korext Open Standards"></a>
-<a href="#ace-the-african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-0E7490?style=flat-square&labelColor=0B1838" alt="ACE"></a>
+<a href="https://github.com/tbrunoh/african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-0E7490?style=flat-square&labelColor=0B1838" alt="ACE"></a>
 <a href="https://github.com/korext"><img src="https://img.shields.io/github/stars/korext?style=flat-square&color=3B82F6&labelColor=0B1838&label=Org%20Stars" alt="Korext org stars"></a>
 <a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-tbrunoh-0A66C2?style=flat-square&labelColor=0B1838&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
@@ -47,7 +47,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 One open context engine behind every entry point people already use: voice, USSD, SMS, WhatsApp, agents, radio and MCP.
 
-<sub>Pre-alpha. Repository opening soon.</sub>
+<a href="https://github.com/tbrunoh/african-context-engine"><b>View the repository →</b></a>
 
 </td>
 </tr>
@@ -87,7 +87,7 @@ Global models do not know which pest control works at 2,100m in the Rift Valley,
 <img src="./ace.svg" alt="ACE architecture: eight entry points, one identity, an engine that runs safety, intent, context and cited answers, over context packs and mobile money" width="100%">
 </div>
 
-<sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha. Repository opening soon.</sub>
+<sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha, contributions welcome: <a href="https://github.com/tbrunoh/african-context-engine">tbrunoh/african-context-engine</a>.</sub>
 
 <br><br>
 
