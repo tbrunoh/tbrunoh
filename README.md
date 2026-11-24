@@ -14,6 +14,8 @@
 
 <sub><b>AI ECOSYSTEMS</b> &nbsp;·&nbsp; <b>CONTEXT FOR AFRICA</b> &nbsp;·&nbsp; <b>OPEN STANDARDS</b></sub>
 
+<sub><a href="#about">About</a> &nbsp;·&nbsp; <a href="#ace-the-african-context-engine">ACE</a> &nbsp;·&nbsp; <a href="#korext-the-stack">Korext</a> &nbsp;·&nbsp; <a href="#journey">Journey</a> &nbsp;·&nbsp; <a href="#connect">Connect</a></sub>
+
 </div>
 
 <br>
@@ -81,18 +83,9 @@ The runtime that enforces those standards for regulated industries, with a signe
 
 Global models do not know which pest control works at 2,100m in the Rift Valley, what tomatoes cost on Thursdays at Wakulima, or how land law changes 30km across a border. ACE encodes that hyperlocal knowledge once and serves it through every channel, on any phone, with a safety rail that hands urgent cases to a human.
 
-<table>
-<thead>
-<tr><th align="left">Layer</th><th align="left">What it does</th><th align="left">License</th></tr>
-</thead>
-<tbody>
-<tr><td><b>Entry</b></td><td>Voice, USSD, SMS and WhatsApp adapters on one identity and one memory</td><td>Apache 2.0</td></tr>
-<tr><td><b>Context</b></td><td>Context packs scoped by place, altitude, season and subject</td><td>Engine Apache 2.0, open packs CC BY 4.0</td></tr>
-<tr><td><b>Intelligence</b></td><td>Model agnostic routing, grounded answers with citations</td><td>Apache 2.0</td></tr>
-<tr><td><b>Access</b></td><td>MCP server so any AI assistant can query local context</td><td>Apache 2.0</td></tr>
-<tr><td><b>Transactions</b></td><td>Mobile money connectors, starting with M-Pesa</td><td>Apache 2.0</td></tr>
-</tbody>
-</table>
+<div align="center">
+<img src="./ace.svg" alt="ACE architecture: eight entry points, one identity, an engine that runs safety, intent, context and cited answers, over context packs and mobile money" width="100%">
+</div>
 
 <sub>Open core: the engine is free; verified, expert reviewed context carries commercial terms. Pre-alpha. Repository opening soon.</sub>
 
@@ -162,19 +155,15 @@ Global models do not know which pest control works at 2,100m in the Rift Valley,
 
 <br><br>
 
-## Background
+## Journey
 
-More than a decade at Google, from Large Customer Sales and Global Product Lead for AdSense to five years shaping product and platform strategy for Chrome, used by billions of people. Born and raised in Kenya, I invest in technology led founders in frontier markets with Black Angel Group and advise Silicon Xchange, which connects Silicon Valley and Africa.
+<div align="center">
+<img src="./journey.svg" alt="Career from Google Kenya to AI Ecosystems, and education at TU Dublin, HEC Paris, UC Berkeley and George Washington University" width="100%">
+</div>
 
 <br>
 
-<div align="center">
-
-<a href="https://www.berkeley.edu"><img src="https://img.shields.io/badge/UC%20Berkeley-MEng%20%C2%B7%20AI%2FML%2C%20Robotics%2C%20Controls-003262?style=for-the-badge&labelColor=0B1838" alt="UC Berkeley"></a>
-<a href="https://www.hec.edu"><img src="https://img.shields.io/badge/HEC%20Paris-MS%20%C2%B7%20Innovation%20and%20Entrepreneurship-1E40AF?style=for-the-badge&labelColor=0B1838" alt="HEC Paris"></a>
-<a href="https://www.tudublin.ie"><img src="https://img.shields.io/badge/TU%20Dublin-BS%20%C2%B7%20Digital%20Technology%2C%20Design%2C%20Innovation-0E7490?style=for-the-badge&labelColor=0B1838" alt="TU Dublin"></a>
-
-</div>
+Born and raised in Kenya. More than a decade at Google, including five years shaping product and platform strategy for Chrome, used by billions of people. I invest in technology led founders in frontier markets with Black Angel Group and advise Silicon Xchange, which connects Silicon Valley and Africa.
 
 <br>
 
