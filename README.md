@@ -4,12 +4,12 @@
 
 <br><br>
 
-<a href="https://korext.com"><img src="https://img.shields.io/badge/Korext-Platform-1E40AF?style=flat-square&labelColor=0B1838" alt="Korext Platform"></a>
-<a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext-Open%20Standards-06B6D4?style=flat-square&labelColor=0B1838" alt="Korext Open Standards"></a>
-<a href="https://github.com/tbrunoh/african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-0E7490?style=flat-square&labelColor=0B1838" alt="ACE"></a>
-<a href="https://github.com/korext"><img src="https://img.shields.io/github/stars/korext?style=flat-square&color=3B82F6&labelColor=0B1838&label=Org%20Stars" alt="Korext org stars"></a>
-<a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-tbrunoh-0A66C2?style=flat-square&labelColor=0B1838&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://tbrunoh.github.io"><img src="https://img.shields.io/badge/Website-tbrunoh.github.io-2DD4BF?style=flat-square&labelColor=0B1838" alt="Website"></a>
+<a href="https://korext.com"><img src="https://img.shields.io/badge/Korext-Platform-364E3C?style=flat-square&labelColor=253239" alt="Korext Platform"></a>
+<a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext-Open%20Standards-006B69?style=flat-square&labelColor=253239" alt="Korext Open Standards"></a>
+<a href="https://github.com/tbrunoh/african-context-engine"><img src="https://img.shields.io/badge/ACE-African%20Context%20Engine-006B69?style=flat-square&labelColor=253239" alt="ACE"></a>
+<a href="https://github.com/korext"><img src="https://img.shields.io/github/stars/korext?style=flat-square&color=364E3C&labelColor=253239&label=Org%20Stars" alt="Korext org stars"></a>
+<a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-tbrunoh-364E3C?style=flat-square&labelColor=253239&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://tbrunoh.github.io"><img src="https://img.shields.io/badge/Website-tbrunoh.github.io-BE823C?style=flat-square&labelColor=253239" alt="Website"></a>
 
 <br><br>
 
@@ -141,43 +141,43 @@ Skin analysis models often perform worse on darker skin, because the images they
 <td><sub>TRACK</sub></td>
 <td><a href="https://github.com/korext/ai-attestation"><b>ai-attestation</b></a></td>
 <td>Verifiable provenance for the leading AI coding tools</td>
-<td><a href="https://www.npmjs.com/package/@korext/ai-attestation"><img src="https://img.shields.io/npm/v/@korext/ai-attestation?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/ai-attestation"><img src="https://img.shields.io/npm/v/@korext/ai-attestation?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 <tr>
 <td><sub>DECLARE</sub></td>
 <td><a href="https://github.com/korext/ai-license"><b>ai-license</b></a></td>
 <td>Licensing framework for AI generated code</td>
-<td><a href="https://www.npmjs.com/package/@korext/ai-license"><img src="https://img.shields.io/npm/v/@korext/ai-license?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/ai-license"><img src="https://img.shields.io/npm/v/@korext/ai-license?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 <tr>
 <td><sub>SCAN</sub></td>
 <td><a href="https://github.com/korext/supply-chain-attestation"><b>supply-chain-attestation</b></a></td>
 <td>AI provenance across SBOM and signature ecosystems</td>
-<td><a href="https://www.npmjs.com/package/@korext/supply-check"><img src="https://img.shields.io/npm/v/@korext/supply-check?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/supply-check"><img src="https://img.shields.io/npm/v/@korext/supply-check?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 <tr>
 <td><sub>REPORT</sub></td>
 <td><a href="https://github.com/korext/ai-incident-registry"><b>ai-incident-registry</b></a></td>
 <td>Public incident taxonomy and registry for AI code failures</td>
-<td><a href="https://www.npmjs.com/package/@korext/incident-report"><img src="https://img.shields.io/npm/v/@korext/incident-report?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/incident-report"><img src="https://img.shields.io/npm/v/@korext/incident-report?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 <tr>
 <td><sub>MEASURE</sub></td>
 <td><a href="https://github.com/korext/ai-code-radar"><b>ai-code-radar</b></a></td>
 <td>Detection pattern library and live adoption data for AI authored code</td>
-<td><a href="https://www.npmjs.com/package/@korext/radar-data"><img src="https://img.shields.io/npm/v/@korext/radar-data?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/radar-data"><img src="https://img.shields.io/npm/v/@korext/radar-data?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 <tr>
 <td><sub>DETECT</sub></td>
 <td><a href="https://github.com/korext/ai-regression-database"><b>ai-regression-database</b></a></td>
 <td>Regression fingerprinting for AI code patterns</td>
-<td><a href="https://www.npmjs.com/package/@korext/regression-submit"><img src="https://img.shields.io/npm/v/@korext/regression-submit?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/regression-submit"><img src="https://img.shields.io/npm/v/@korext/regression-submit?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 <tr>
 <td><sub>SUSTAIN</sub></td>
 <td><a href="https://github.com/korext/commit-carbon"><b>commit-carbon</b></a></td>
 <td>Emissions accounting for software changes</td>
-<td><a href="https://www.npmjs.com/package/@korext/commit-carbon"><img src="https://img.shields.io/npm/v/@korext/commit-carbon?style=flat-square&color=1E40AF&labelColor=0B1838&label=npm" alt="npm version"></a></td>
+<td><a href="https://www.npmjs.com/package/@korext/commit-carbon"><img src="https://img.shields.io/npm/v/@korext/commit-carbon?style=flat-square&color=364E3C&labelColor=253239&label=npm" alt="npm version"></a></td>
 </tr>
 </tbody>
 </table>
@@ -202,11 +202,11 @@ Born and raised in Kenya. More than a decade at Google, including five years sha
 
 <div align="center">
 
-<a href="https://tbrunoh.github.io"><img src="https://img.shields.io/badge/Website-0E7490?style=for-the-badge" alt="Website"></a>
-<a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://korext.com"><img src="https://img.shields.io/badge/Korext_Platform-1E40AF?style=for-the-badge" alt="Korext Platform"></a>
-<a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext_Open_Source-06B6D4?style=for-the-badge" alt="Korext Open Source"></a>
-<a href="mailto:maintainers@korext.com"><img src="https://img.shields.io/badge/Email-0B1838?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://tbrunoh.github.io"><img src="https://img.shields.io/badge/Website-006B69?style=for-the-badge" alt="Website"></a>
+<a href="https://linkedin.com/in/tbrunoh"><img src="https://img.shields.io/badge/LinkedIn-364E3C?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="https://korext.com"><img src="https://img.shields.io/badge/Korext_Platform-364E3C?style=for-the-badge" alt="Korext Platform"></a>
+<a href="https://oss.korext.com"><img src="https://img.shields.io/badge/Korext_Open_Source-BE823C?style=for-the-badge" alt="Korext Open Source"></a>
+<a href="mailto:maintainers@korext.com"><img src="https://img.shields.io/badge/Email-253239?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 
 </div>
 

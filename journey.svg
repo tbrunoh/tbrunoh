@@ -1,86 +1,87 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 440" role="img" aria-label="Journey. Career: Google Kenya intern, Large Customer Sales in Ireland, Global Product Lead for AdSense, Chrome product and platform strategy, AI Ecosystems; Founder of Korext; building ACE. Education: TU Dublin BS, HEC Paris MS, UC Berkeley MEng, George Washington University D.Eng in progress.">
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#050B1C"/>
-      <stop offset="100%" stop-color="#132B5E"/>
+      <stop offset="0%" stop-color="#FFFFFF"/>
+      <stop offset="100%" stop-color="#FFFFFF"/>
     </linearGradient>
     <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#06B6D4" stop-opacity="0.2"/>
-      <stop offset="100%" stop-color="#06B6D4"/>
+      <stop offset="0%" stop-color="#006B69" stop-opacity="0.2"/>
+      <stop offset="100%" stop-color="#006B69"/>
     </linearGradient>
     <style>
-      .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
+      .sans { font-family: Inter, -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Helvetica Neue', Arial, sans-serif; }
       .mono { font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; }
       .now { animation: p 3s ease-in-out infinite; transform-box: fill-box; transform-origin: center; }
       @keyframes p { 0%,100% { opacity: .5; transform: scale(1); } 50% { opacity: 1; transform: scale(1.6); } }
       @media (prefers-reduced-motion: reduce) { .now { animation: none; } }
+      .serif { font-family: Newsreader, ui-serif, 'New York', 'Iowan Old Style', Georgia, serif; }
     </style>
   </defs>
-  <rect width="1200" height="440" rx="18" fill="url(#bg)"/>
+  <rect width="1199" height="439" rx="18" fill="#FFFFFF" x="0.5" y="0.5" stroke="#E8E2D9" stroke-width="1"/>
 
-  <text x="48" y="54" class="mono" font-size="12" fill="#06B6D4" letter-spacing="3">JOURNEY</text>
-  <text x="48" y="84" class="sans" font-size="22" font-weight="700" fill="#FFFFFF">From Kenya to Dublin to San Francisco, a career built inside platforms.</text>
+  <text x="48" y="54" class="mono" font-size="12" fill="#006B69" letter-spacing="3">JOURNEY</text>
+  <text x="48" y="84" class="serif" font-size="26" font-weight="500" fill="#253239" letter-spacing="-0.4">From Kenya to Dublin to San Francisco, a career built inside platforms.</text>
 
   <!-- Career lane -->
-  <text x="48" y="130" class="mono" font-size="11" fill="#94A3B8" letter-spacing="2">CAREER</text>
-  <line x1="60" y1="170" x2="1140" y2="170" stroke="#06B6D4" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="48" y="130" class="mono" font-size="11" fill="#56636A" letter-spacing="2">CAREER</text>
+  <line x1="60" y1="170" x2="1140" y2="170" stroke="#006B69" stroke-opacity="0.45" stroke-width="2"/>
   <g class="sans">
-    <circle cx="80" cy="170" r="6" fill="#0B1838" stroke="#06B6D4" stroke-width="2"/>
-    <text x="62" y="200" font-size="14" font-weight="700" fill="#FFFFFF">Google Kenya</text>
-    <text x="62" y="219" font-size="12" fill="#94A3B8">Intern</text>
+    <circle cx="80" cy="170" r="6" fill="#FFFFFF" stroke="#006B69" stroke-width="2"/>
+    <text x="62" y="200" font-size="14" font-weight="700" fill="#253239">Google Kenya</text>
+    <text x="62" y="219" font-size="12" fill="#56636A">Intern</text>
 
-    <circle cx="300" cy="170" r="6" fill="#0B1838" stroke="#06B6D4" stroke-width="2"/>
-    <text x="282" y="200" font-size="14" font-weight="700" fill="#FFFFFF">Large Customer Sales</text>
-    <text x="282" y="219" font-size="12" fill="#94A3B8">Google, Ireland</text>
+    <circle cx="300" cy="170" r="6" fill="#FFFFFF" stroke="#006B69" stroke-width="2"/>
+    <text x="282" y="200" font-size="14" font-weight="700" fill="#253239">Large Customer Sales</text>
+    <text x="282" y="219" font-size="12" fill="#56636A">Google, Ireland</text>
 
-    <circle cx="520" cy="170" r="6" fill="#0B1838" stroke="#06B6D4" stroke-width="2"/>
-    <text x="502" y="200" font-size="14" font-weight="700" fill="#FFFFFF">AdSense</text>
-    <text x="502" y="219" font-size="12" fill="#94A3B8">Global Product Lead</text>
+    <circle cx="520" cy="170" r="6" fill="#FFFFFF" stroke="#006B69" stroke-width="2"/>
+    <text x="502" y="200" font-size="14" font-weight="700" fill="#253239">AdSense</text>
+    <text x="502" y="219" font-size="12" fill="#56636A">Global Product Lead</text>
 
-    <circle cx="740" cy="170" r="6" fill="#0B1838" stroke="#06B6D4" stroke-width="2"/>
-    <text x="722" y="200" font-size="14" font-weight="700" fill="#FFFFFF">Chrome</text>
-    <text x="722" y="219" font-size="12" fill="#94A3B8">Product and platform strategy</text>
+    <circle cx="740" cy="170" r="6" fill="#FFFFFF" stroke="#006B69" stroke-width="2"/>
+    <text x="722" y="200" font-size="14" font-weight="700" fill="#253239">Chrome</text>
+    <text x="722" y="219" font-size="12" fill="#56636A">Product and platform strategy</text>
 
-    <circle class="now" cx="960" cy="170" r="7" fill="#06B6D4"/>
-    <text x="942" y="200" font-size="14" font-weight="700" fill="#FFFFFF">AI Ecosystems</text>
-    <text x="942" y="219" font-size="12" fill="#94A3B8">Product and Ecosystem Leader</text>
+    <circle class="now" cx="960" cy="170" r="7" fill="#006B69"/>
+    <text x="942" y="200" font-size="14" font-weight="700" fill="#253239">AI Ecosystems</text>
+    <text x="942" y="219" font-size="12" fill="#56636A">Product and Ecosystem Leader</text>
 
     <g transform="translate(942,236)">
-      <rect width="96" height="24" rx="12" fill="#06B6D4" fill-opacity="0.14" stroke="#06B6D4" stroke-opacity="0.5"/>
-      <text x="48" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#FFFFFF" letter-spacing="1">KOREXT</text>
-      <rect x="104" width="64" height="24" rx="12" fill="#2DD4BF" fill-opacity="0.14" stroke="#2DD4BF" stroke-opacity="0.5"/>
-      <text x="136" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#FFFFFF" letter-spacing="1">ACE</text>
+      <rect width="96" height="24" rx="12" fill="#EDF5F4" stroke="#006B69" stroke-opacity="0.5"/>
+      <text x="48" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#253239" letter-spacing="1">KOREXT</text>
+      <rect x="104" width="64" height="24" rx="12" fill="#EDF5F4" stroke="#006B69" stroke-opacity="0.5"/>
+      <text x="136" y="16" text-anchor="middle" font-size="11" font-weight="600" fill="#253239" letter-spacing="1">ACE</text>
     </g>
   </g>
 
   <!-- Education lane -->
-  <text x="48" y="300" class="mono" font-size="11" fill="#94A3B8" letter-spacing="2">EDUCATION</text>
+  <text x="48" y="300" class="mono" font-size="11" fill="#56636A" letter-spacing="2">EDUCATION</text>
   <g class="sans">
     <g transform="translate(48,316)">
-      <rect width="261" height="88" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
-      <text x="18" y="32" font-size="15" font-weight="700" fill="#FFFFFF">TU Dublin</text>
-      <text x="18" y="54" font-size="12" fill="#CBD5E1">BS, Digital Technology,</text>
-      <text x="18" y="71" font-size="12" fill="#CBD5E1">Design and Innovation</text>
+      <rect width="261" height="88" rx="12" fill="#FFFFFF" stroke="#E8E2D9"/>
+      <text x="18" y="32" font-size="15" font-weight="700" fill="#253239">TU Dublin</text>
+      <text x="18" y="54" font-size="12" fill="#3E4B52">BS, Digital Technology,</text>
+      <text x="18" y="71" font-size="12" fill="#3E4B52">Design and Innovation</text>
     </g>
     <g transform="translate(325,316)">
-      <rect width="261" height="88" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
-      <text x="18" y="32" font-size="15" font-weight="700" fill="#FFFFFF">HEC Paris</text>
-      <text x="18" y="54" font-size="12" fill="#CBD5E1">MS, Innovation and</text>
-      <text x="18" y="71" font-size="12" fill="#CBD5E1">Entrepreneurship</text>
+      <rect width="261" height="88" rx="12" fill="#FFFFFF" stroke="#E8E2D9"/>
+      <text x="18" y="32" font-size="15" font-weight="700" fill="#253239">HEC Paris</text>
+      <text x="18" y="54" font-size="12" fill="#3E4B52">MS, Innovation and</text>
+      <text x="18" y="71" font-size="12" fill="#3E4B52">Entrepreneurship</text>
     </g>
     <g transform="translate(602,316)">
-      <rect width="261" height="88" rx="12" fill="#FFFFFF" fill-opacity="0.05" stroke="#FFFFFF" stroke-opacity="0.14"/>
-      <text x="18" y="32" font-size="15" font-weight="700" fill="#FFFFFF">UC Berkeley</text>
-      <text x="18" y="54" font-size="12" fill="#CBD5E1">MEng, AI/ML, Robotics</text>
-      <text x="18" y="71" font-size="12" fill="#CBD5E1">and Controls</text>
+      <rect width="261" height="88" rx="12" fill="#FFFFFF" stroke="#E8E2D9"/>
+      <text x="18" y="32" font-size="15" font-weight="700" fill="#253239">UC Berkeley</text>
+      <text x="18" y="54" font-size="12" fill="#3E4B52">MEng, AI/ML, Robotics</text>
+      <text x="18" y="71" font-size="12" fill="#3E4B52">and Controls</text>
     </g>
     <g transform="translate(879,316)">
-      <rect width="273" height="88" rx="12" fill="#06B6D4" fill-opacity="0.10" stroke="#06B6D4" stroke-opacity="0.55"/>
-      <text x="18" y="32" font-size="15" font-weight="700" fill="#FFFFFF">George Washington University</text>
-      <text x="18" y="54" font-size="12" fill="#CBD5E1">D.Eng, Artificial Intelligence</text>
-      <text x="18" y="71" font-size="12" fill="#CBD5E1">and Machine Learning</text>
-      <rect x="164" y="-10" width="96" height="20" rx="10" fill="#0B1838" stroke="#06B6D4" stroke-opacity="0.7"/>
-      <text x="212" y="4" text-anchor="middle" font-size="10" font-weight="600" fill="#7DD3FC" letter-spacing="0.8">IN PROGRESS</text>
+      <rect width="273" height="88" rx="12" fill="#EDF5F4" stroke="#006B69" stroke-opacity="0.55"/>
+      <text x="18" y="32" font-size="15" font-weight="700" fill="#253239">George Washington University</text>
+      <text x="18" y="54" font-size="12" fill="#3E4B52">D.Eng, Artificial Intelligence</text>
+      <text x="18" y="71" font-size="12" fill="#3E4B52">and Machine Learning</text>
+      <rect x="164" y="-10" width="96" height="20" rx="10" fill="#FFFFFF" stroke="#006B69" stroke-opacity="0.7"/>
+      <text x="212" y="4" text-anchor="middle" font-size="10" font-weight="600" fill="#00524F" letter-spacing="0.8">IN PROGRESS</text>
     </g>
   </g>
 </svg>
