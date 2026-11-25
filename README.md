@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Tom Bruno, Product and Ecosystem Leader in AI Ecosystems at Google. AI is only as useful as the ecosystem it can safely reach. A map traces his path from Nairobi to Dublin to San Francisco, with TB at the centre of agents, protocols, publishers, merchants, value exchange, trust and developers." width="100%">
+<img src="./banner.svg" alt="Tom Bruno, Product and Ecosystem Leader in AI Ecosystems at Google. AI is only as useful as the ecosystem it can safely reach. A map traces his path from Nairobi to Dublin to Paris to San Francisco, with TB at the centre of agents, protocols, publishers, merchants, value exchange, trust and developers." width="100%">
 
 <br><br>
 
