@@ -46,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 2.1 preview is out: six decision services on public data in 34 countries and eight languages, open for contributors.
+Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 2.2 preview is out: six decision services on public data in 34 countries and eight languages, now tested on real African speech from the open WAXAL corpus, with a voice line that speaks only languages a voice exists for. Open for contributors.
 
 <a href="https://tbrunoh.github.io/ace/"><b>Project page →</b></a> &nbsp; <a href="https://github.com/tbrunoh/african-context-engine"><b>Repository →</b></a>
 
@@ -88,7 +88,7 @@ Global models do not know which hotline handles gender based violence in Ghana, 
 <img src="./ace.svg" alt="ACE architecture: six entry points, one pseudonymous identity, an engine that runs the safety rail, Scam Shield, checked context and cited answers over sourced context packs" width="100%">
 </div>
 
-<sub>Apache 2.0 code, CC BY 4.0 knowledge. Release 2.1 preview is out; speakers of Swahili, French, Portuguese, Arabic, Amharic, Afaan Oromo and Somali, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
+<sub>Apache 2.0 code, CC BY 4.0 knowledge. Release 2.2 preview is out; speakers of Swahili, French, Portuguese, Arabic, Amharic, Afaan Oromo and Somali, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
 
 <br><br>
 
