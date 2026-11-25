@@ -46,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 1.1 is out, the V2 design is published, and it is open for contributors.
+Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 2.0 preview is out, with six decision services on public data for all 13 countries, and it is open for contributors.
 
 <a href="https://tbrunoh.github.io/ace/"><b>Project page →</b></a> &nbsp; <a href="https://github.com/tbrunoh/african-context-engine"><b>Repository →</b></a>
 
@@ -82,13 +82,13 @@ The runtime that enforces those standards for regulated industries, with a signe
 
 ## ACE: the African Context Engine
 
-Global models do not know which hotline handles gender based violence in Ghana, what moisture keeps maize free of aflatoxin, or how to tell a real mobile money message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. One engine covers 13 countries, from Kenya and Nigeria to Senegal and South Africa, in English, Swahili and French. The caller's number picks the country, so every emergency number is that country's own. It ships a USSD menu app, Scam Shield and an MCP server, and runs without an AI model. The [V2 design](https://github.com/tbrunoh/african-context-engine/tree/main/docs/v2) turns public weather, flood, soil and health data and open African speech models into twelve decision services and a voice line.
+Global models do not know which hotline handles gender based violence in Ghana, what moisture keeps maize free of aflatoxin, or how to tell a real mobile money message from a scam. ACE encodes that knowledge in open, sourced packs and serves it on any phone, with a safety rail that answers emergencies with verified numbers before anything else runs. One engine covers 13 countries, from Kenya and Nigeria to Senegal and South Africa, in English, Swahili and French. The caller's number picks the country, so every emergency number is that country's own. It ships a USSD menu app, Scam Shield and an MCP server, and runs without an AI model. Release 2.0 preview adds [six decision services](https://github.com/tbrunoh/african-context-engine/blob/main/docs/services.md) on dated public data: rain this week, official warnings, the nearest health facility, market prices, a pregnancy companion and a crop problem check, each covering all 13 countries wherever open data exists and naming the gap where it does not. The [V2 design](https://github.com/tbrunoh/african-context-engine/tree/main/docs/v2) sets out the rest, including a voice line in African languages.
 
 <div align="center">
 <img src="./ace.svg" alt="ACE architecture: six entry points, one pseudonymous identity, an engine that runs the safety rail, Scam Shield, checked context and cited answers over sourced context packs" width="100%">
 </div>
 
-<sub>Apache 2.0 code, CC BY 4.0 knowledge. Release 1.1 is out; Swahili and French speakers, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
+<sub>Apache 2.0 code, CC BY 4.0 knowledge. Release 2.0 preview is out; Swahili and French speakers, clinicians, agronomists and developers are welcome: <a href="https://tbrunoh.github.io/ace/">project page</a> · <a href="https://github.com/tbrunoh/african-context-engine/issues">starter issues</a> · <a href="https://github.com/tbrunoh/african-context-engine/discussions">discussions</a>.</sub>
 
 <br><br>
 
