@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./banner.svg" alt="Tom Bruno, Product and Ecosystem Leader, AI Ecosystems. AI is only as useful as the ecosystem it can safely reach. A map traces his path from Nairobi to Dublin to San Francisco, with TB at the centre of agents, protocols, publishers, merchants, value exchange, trust and developers." width="100%">
+<img src="./banner.svg" alt="Tom Bruno, Product and Ecosystem Leader in AI Ecosystems at Google. AI is only as useful as the ecosystem it can safely reach. A map traces his path from Nairobi to Dublin to San Francisco, with TB at the centre of agents, protocols, publishers, merchants, value exchange, trust and developers." width="100%">
 
 <br><br>
 
@@ -46,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 2.2 preview is out: six decision services on public data in 34 countries and eight languages, now tested on real African speech from the open WAXAL corpus, with a voice line that speaks only languages a voice exists for. Open for contributors.
+Checked, local, citable knowledge for Africa on any phone: USSD, SMS, voice, WhatsApp and MCP. Release 2.2 preview is out: six decision services on public data in 34 countries and eight languages, now tested on real African speech from the open WAXAL corpus, and a voice line that speaks seven of its eight languages. Open for contributors.
 
 <a href="https://tbrunoh.github.io/ace/"><b>Project page →</b></a> &nbsp; <a href="https://github.com/tbrunoh/african-context-engine"><b>Repository →</b></a>
 
