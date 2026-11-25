@@ -23,7 +23,7 @@
 
 ## About
 
-By day I am a Product and Ecosystem Leader in AI Ecosystems at Google, where I shape strategy for how AI agents reach the web: what they can access, how they identify themselves, and what publishers and creators get in return. Outside of it, my personal projects are **[ACE](#ace-the-african-context-engine)**, an open context engine that grounds AI in hyperlocal African knowledge; **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable; and **[Inclusive Skin AI](#inclusive-skin-ai)**, skin analysis built for melanin-rich skin first.
+By day I am a Product and Ecosystem Leader in AI Ecosystems at Google, where I shape strategy for how AI agents reach the web: what they can access, how they identify themselves, and what publishers and creators get in return. Outside of it, my personal projects are **[ACE](#ace-the-african-context-engine)**, checked, local, citable knowledge for Africa on any phone (USSD, SMS/RCS, voice, WhatsApp and MCP); **[Korext](https://korext.com)**, a governance runtime for AI generated code with **[seven open standards](https://oss.korext.com)** that make AI written software traceable, licensable and accountable; and **[Inclusive Skin AI](#inclusive-skin-ai)**, skin analysis built for melanin-rich skin first.
 
 I write about AI that reaches people on the phones they already own, and about getting public data to the people it is meant to serve: **[Writing](https://tbrunoh.github.io/writing/)**.
 
