@@ -46,7 +46,7 @@ How agents, platforms and publishers connect: access, identity, incentives and t
 
 ### ACE, the African Context Engine
 
-Checked, local, citable knowledge for Africa on any phone (USSD, SMS/RCS, voice, WhatsApp and MCP). USSD, SMS and voice need no data, and RCS falls back to SMS. Release 2.2 preview is out: six decision services on public data in 34 countries and eight languages, tested on transcripts of real African speech from the open WAXAL corpus, and a voice line that speaks seven of its eight languages. Open for contributors.
+Checked, local, citable knowledge for Africa on any phone (USSD, SMS/RCS, voice, WhatsApp and MCP). USSD, SMS and voice need no data, and RCS falls back to SMS. Release 2.2 preview is out: six decision services on public data in 34 countries and eight languages, tested on transcripts of real African speech from the open WAXAL corpus, a voice line that speaks seven of its eight languages and, in its third build, RCS with SMS fallback. Open for contributors.
 
 <a href="https://tbrunoh.github.io/ace/"><b>Project page →</b></a> &nbsp; <a href="https://github.com/tbrunoh/african-context-engine"><b>Repository →</b></a>
 
